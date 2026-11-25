@@ -14,6 +14,7 @@ Written for RHEL, Rocky Linux and AlmaLinux 9 and 10.
 | 02 | Locking Down User Accounts | [Steps](./02-user-accounts/README.md) | [check.sh](./02-user-accounts/check.sh) | [▶ Watch](https://www.youtube.com/watch?v=fbEMHl9VFSw) |
 | 03 | Hardening SSH | [Steps](./03-ssh/README.md) | [check.sh](./03-ssh/check.sh) | [▶ Watch](https://www.youtube.com/watch?v=xPjogpvOukA) |
 | 04 | Firewall with firewalld | [Steps](./04-firewall/README.md) | [check.sh](./04-firewall/check.sh) | [▶ Watch](https://www.youtube.com/watch?v=e-GcC3mW6gs) |
+| 05 | Filesystem Security | [Steps](./05-filesystem/README.md) | [check.sh](./05-filesystem/check.sh) | [▶ Watch](https://youtu.be/Ey51y6zvFD0) |
 
 New episodes are added as they are published.
 
